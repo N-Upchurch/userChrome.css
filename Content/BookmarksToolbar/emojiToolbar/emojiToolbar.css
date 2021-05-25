@@ -1,0 +1,14 @@
+/* Before implementing, set bookmark toolbar items / folders to emojis with win + ;*/
+
+#PersonalToolbar .toolbarbutton-1 > .toolbarbutton-icon, #PersonalToolbar .toolbarbutton-1 > .toolbarbutton-badge-stack, .bookmark-item > .toolbarbutton-icon {
+  display: none !important;
+}
+
+#PersonalToolbar #import-button > .toolbarbutton-text, .bookmark-item > .toolbarbutton-text {
+  font-size: 1.3rem;
+  width: 2rem;
+}
+
+#PersonalToolbar {
+	background-color: rgba(230,230,230,1);
+}
