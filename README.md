@@ -1,13 +1,12 @@
-# userChrome.css
-Firefox Tweaks using UserChrome.css
+# userChrome.css Tweaks for Firefox
 
 ## Getting Started
-### Enable UserChrome.css in Firefox
+### Enable userChrome.css in Firefox
 * Navigate to about:config in Firefox
 * Search for `toolkit.legacyUserProfileCustomizations.stylesheets`
 * Set `toolkit.legacyUserProfileCustomizations.stylesheets` to True
 
-### Create UserChrome.css
+### Create userChrome.css
 *Thanks to https://www.reddit.com/r/FirefoxCSS/comments/73dvty/tutorial_how_to_create_and_livedebug_userchromecss/ for these instructions*
 * Navigate to about:support in Firefox
 * Click on "Profile Folder" -> "Open Folder"
@@ -15,7 +14,7 @@ Firefox Tweaks using UserChrome.css
 * Open the chrome folder
 * In the chrome folder, create a file named "userChrome.css"
 
-### Editing UserChrome.css
+### Editing userChrome.css
 * Add rules
 * Restart Firefox
 
