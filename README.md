@@ -15,7 +15,8 @@
 * In the chrome folder, create a file named "userChrome.css"
 
 ### Editing userChrome.css
-* Add rules
+* At the top of your stylesheet, add `@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");`
+* Add rules beneath `@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");`
 * Restart Firefox
 
 ### Enable Browser Toolbox to Help You Create Your Own Rules (Optional)
