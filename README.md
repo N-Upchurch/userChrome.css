@@ -1,4 +1,5 @@
 # userChrome.css Tweaks for Firefox
+Some tweaks for Firefox using userChrome.css. Instructions below to apply them and create your own.
 
 ## Getting Started
 ### Enable userChrome.css in Firefox
