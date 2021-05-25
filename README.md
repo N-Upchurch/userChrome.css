@@ -7,7 +7,7 @@
 * Set `toolkit.legacyUserProfileCustomizations.stylesheets` to True
 
 ### Create userChrome.css
-*Thanks to https://www.reddit.com/r/FirefoxCSS/comments/73dvty/tutorial_how_to_create_and_livedebug_userchromecss/ for these instructions*
+*Thanks to https://www.reddit.com/r/FirefoxCSS/comments/73dvty/tutorial_how_to_create_and_livedebug_userchromecss/ for these instructions.*
 * Navigate to about:support in Firefox
 * Click on "Profile Folder" -> "Open Folder"
 * Create a sub-folder named "chrome"
